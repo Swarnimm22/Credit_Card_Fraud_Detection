@@ -245,8 +245,8 @@ jupyter notebook
 
 **Swarnim Mishra**
 - Email: mswarnim04@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- LinkedIn: [Swarnim Mishra](https://www.linkedin.com/in/swarnim-mishra-84677b229)
+- GitHub: [Swarnimm22](https://github.com/Swarnimm22)
 
 ---
 
